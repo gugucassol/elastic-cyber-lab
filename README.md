@@ -6,7 +6,7 @@ This project is an ongoing cybersecurity lab focused on deploying and configurin
 
 ## Project Overview
 
-- Deployed **Elastic Stack** (Elasticsearch, Kibana, Fleet Server) on **Ubuntu 22.04**.
+- Deployed **Elastic Stack** (Elasticsearch, Kibana, Fleet Server) on **Ubuntu 24.04**.
 - Manually configured a **TLS-secured Fleet Server** using a custom **Certificate Authority (CA)** and OpenSSL.
 - Successfully enrolled an **Elastic Agent on Windows Server 2019**.
 - Real-time monitoring via Kibana, enabling endpoint visibility and data ingestion.
