@@ -83,3 +83,10 @@ curl --cacert /path/to/ca.crt https://fleet-server.lab.local:8220
 ## Screenshots
 All installation and verification steps are documented in:
 /images/fleet-server/
+
+## Related Docs:
+```bash
+Certificate Authority Setup
+Elastic Agent (Linux)
+Elastic Agent (Windows)
+```
